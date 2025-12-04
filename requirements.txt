@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+opencv-python
+Pillow
+torch
+torchvision
+imageio
+tqdm
+-q segmentation-models-pytorch
+openpyxl

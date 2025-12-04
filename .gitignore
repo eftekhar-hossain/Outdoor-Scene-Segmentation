@@ -1,0 +1,8 @@
+__pycache__/
+Scripts/__pycache__/
+data-urban/
+Old/
+plots/
+saved_models/
+.xlsx
+.csv
