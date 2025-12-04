@@ -22,13 +22,13 @@ Follow these steps to set up the environment and download the dataset.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/eftekhar-hossain/Outdoor-Scene-Segmentation.git
+cd Outdoor-Scene-Segmentation
 ```
 ### 2. Create a Virtual Environment
 
 ```bash
-conda a create -n cap5415 python=3.10
+conda create -n cap5415 python=3.10
 conda activate cap5415
 ```
 ### 3. Install Dataset and Dependencies
@@ -38,7 +38,7 @@ bash setup.sh
 ```
 ### 4. Repository Structure
 
-The repository will look like as follows: 
+The repository will look as follows: 
 ```
 Outdoor-Scene-Segmentation/
 │
