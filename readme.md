@@ -82,7 +82,7 @@ Make sure you are in the ```Scripts/``` directory to run the training scripts.
     ```
 - Train Attention UNet
     ```bash
-    python rain_unet.py --model_type attunet
+    python train_unet.py --model_type attunet
     ```
 
 ### CLI Arguments (train_unet.py)
